@@ -1,6 +1,6 @@
 # Maquetación||Barra de busqueda.
 
-<p>Pequeño proyecto de una maquetacion<br>de Barra de busqueda.</p>
+<p>Pequeño proyecto de un maquetado<br>de Barra de busqueda.</p>
 
 <h3>Herramientas Utilizadas</h3><br>
 <ul>
@@ -21,9 +21,8 @@
     </tr>
     <tr>
         <td>
-            <img src="" alt="" width="500">
+            <img src="https://user-images.githubusercontent.com/99376135/210294818-411fd16c-7877-4089-9aad-5a78abd1bad7.png" alt="" width="500">
         </td>
     </tr>
 </table>
-
 
