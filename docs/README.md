@@ -12,7 +12,7 @@
 <h4>Modo de uso:</h4>
 <p>
     1.Descargar el repo del proyecto<br>
-    2.Abrir la carpeta del proyecto
+    2.Abrir la carpeta del proyecto<br>
     3.Ejecutar script index.html<br>con navegador de preferencia.
 </p><br>
 <table>
